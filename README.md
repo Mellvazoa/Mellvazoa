@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" width="100%" />
+</p>
 # 🌐 Socials:
 <a href="mailto:awebofuyaro706@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email" />
