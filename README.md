@@ -14,10 +14,3 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Iliya_Met?theme=dark&font=Recursive&ext=activity" alt="LeetCode Stats" />
 </p>
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mellvazoa&theme=radical&show_icons=true&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellvazoa&theme=radical&layout=compact&hide_border=true" />
-</p>
