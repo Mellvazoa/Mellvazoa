@@ -12,16 +12,12 @@
 
 ## 🏆 LeetCode:
 <p align="center">
-  <a href="https://leetcode.com/Iliya_Met/">
-    <img src="https://leetcode-stats-card.vercel.app/?username=Iliya_Met&theme=dark" alt="LeetCode Stats" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/Iliya_Met?theme=dark&font=Recursive&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mellvazoa&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mellvazoa&theme=radical&show_icons=true&hide_border=true" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mellvazoa&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellvazoa&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellvazoa&theme=radical&layout=compact&hide_border=true" />
 </p>
