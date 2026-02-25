@@ -11,7 +11,7 @@
 # 🏆 Competitive Programming:
 <p align="center">
   <a href="https://leetcode.com/ТВОЙ_НИК_LEETCODE/">
-    <img src="https://leetcode-stats-card.vercel.app/?username=ТВОЙ_НИК_LEETCODE&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-card.vercel.app/?username=Iliya_Met&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 
